@@ -1,0 +1,1 @@
+This project is a self-balancing robot that uses an Arduino microcontroller, an L298N motor driver, and a rechargeable Li-ion  battery. The robot maintains balance using feedback from sensors and adjusts its motor speed accordingly.
